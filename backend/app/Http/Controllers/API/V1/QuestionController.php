@@ -77,6 +77,6 @@ class QuestionController extends Controller
 
         $question->delete();
 
-        return response()->json(['message' => 'Question deleted successfully'], 200);
+        return response()->json(['message' => 'Question deleted successfully!!!'], 200);
     }
 }
