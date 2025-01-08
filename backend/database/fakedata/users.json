@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Nguyễn Văn A",
+        "email": "demo@gmail.com",
+        "role": "STUDENT",
+        "phone": "0123456789",
+        "address": "123 Đường Lê Lợi, Quận 1, TP.HCM",
+        "birth_date": "2001-05-15",
+        "password": null
+    },
+    {
+        "name": "Trần Thị B",
+        "email": "tranthib@example.com",
+        "role": "STUDENT",
+        "phone": "0987654321",
+        "address": "45 Đường Hoàng Diệu, Quận 3, Hà Nội",
+        "birth_date": "2000-11-20",
+        "password": null
+    },
+    {
+        "name": "Lê Văn C",
+        "email": "levanc@example.com",
+        "role": "STUDENT",
+        "phone": "0345678910",
+        "address": "789 Đường Trần Hưng Đạo, Quận 5, Đà Nẵng",
+        "birth_date": "2002-02-10",
+        "password": null
+    },
+    {
+        "name": "Phạm Thị D",
+        "email": "phamthid@example.com",
+        "role": "STUDENT",
+        "phone": "0765432109",
+        "address": "12 Đường Nguyễn Du, Quận 4, TP.HCM",
+        "birth_date": "1999-09-30",
+        "password": null
+    },
+    {
+        "name": "Đặng Văn E",
+        "email": "dangvane@example.com",
+        "role": "STUDENT",
+        "phone": "0932105678",
+        "address": "56 Đường Hùng Vương, Quận Hải Châu, Đà Nẵng",
+        "birth_date": "2001-07-25",
+        "password": null
+    },
+    {
+        "name": "Hoàng Thị F",
+        "email": "hoangthif@example.com",
+        "role": "STUDENT",
+        "phone": "0854321987",
+        "address": "678 Đường Láng, Quận Đống Đa, Hà Nội",
+        "birth_date": "2000-03-18",
+        "password": null
+    },
+    {
+        "name": "Vũ Văn G",
+        "email": "vuvang@example.com",
+        "role": "STUDENT",
+        "phone": "0956781234",
+        "address": "90 Đường Điện Biên Phủ, Quận Bình Thạnh, TP.HCM",
+        "birth_date": "2002-12-05",
+        "password": null
+    },
+    {
+        "name": "Ngô Thị H",
+        "email": "ngothih@example.com",
+        "role": "STUDENT",
+        "phone": "0712345678",
+        "address": "23 Đường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",
+        "birth_date": "2001-01-22",
+        "password": null
+    },
+    {
+        "name": "Bùi Văn I",
+        "email": "buivani@example.com",
+        "role": "STUDENT",
+        "phone": "0901234567",
+        "address": "12 Đường Nguyễn Trãi, Quận 10, TP.HCM",
+        "birth_date": "1998-06-10",
+        "password": null
+    },
+    {
+        "name": "Lý Thị K",
+        "email": "lythik@example.com",
+        "role": "STUDENT",
+        "phone": "0998765432",
+        "address": "34 Đường Nguyễn Văn Cừ, Quận Ninh Kiều, Cần Thơ",
+        "birth_date": "2001-10-05",
+        "password": null
+    },
+    {
+        "name": "Trần Văn L",
+        "email": "tranvanl@example.com",
+        "role": "TEACHER",
+        "phone": "0987654321",
+        "address": "45 Đường Hoàng Diệu, Quận 3, Hà Nội",
+        "birth_date": "1980-11-20",
+        "password": null
+    }
+]

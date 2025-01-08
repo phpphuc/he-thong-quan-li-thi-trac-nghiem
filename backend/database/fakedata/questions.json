@@ -1,0 +1,112 @@
+ [
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "What is the synonym of 'happy'?",
+                "level" : "Nhận biết",
+                "rightanswer" : "A",
+                "answer_a" : "Joyful",
+                "answer_b" : "Angry",
+                "answer_c" : "Sad",
+                "answer_d" : "Tired"
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "Which word is an antonym of 'difficult'?",
+                "level" : "Nhận biết",
+                "rightanswer" : "C",
+                "answer_a" : "Challenging",
+                "answer_b" : "Complex",
+                "answer_c" : "Easy",
+                "answer_d" : "Hard"
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "What is the past tense of 'go'?",
+                "level" : "Thông hiểu",
+                "rightanswer" : "D",
+                "answer_a" : "Goes",
+                "answer_b" : "Going",
+                "answer_c" : "Gone",
+                "answer_d" : "Went"
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "Which sentence is grammatically correct?",
+                "level" : "Thông hiểu",
+                "rightanswer" : "B",
+                "answer_a" : "He go to school.",
+                "answer_b" : "He goes to school.",
+                "answer_c" : "He gone to school.",
+                "answer_d" : "He going to school."
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "What is the plural form of 'child'?",
+                "level" : "Vận dụng",
+                "rightanswer" : "C",
+                "answer_a" : "Childs",
+                "answer_b" : "Child's",
+                "answer_c" : "Children",
+                "answer_d" : "Childes"
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "What is the meaning of the idiom 'Break a leg'?",
+                "level" : "Vận dụng",
+                "rightanswer" : "A",
+                "answer_a" : "Good luck",
+                "answer_b" : "Hurry up",
+                "answer_c" : "Be careful",
+                "answer_d" : "Do your best"
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "Which is a correct spelling?",
+                "level" : "Thông hiểu",
+                "rightanswer" : "D",
+                "answer_a" : "Recieve",
+                "answer_b" : "Receeve",
+                "answer_c" : "Recive",
+                "answer_d" : "Receive"
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "Which sentence uses the passive voice?",
+                "level" : "Vận dụng",
+                "rightanswer" : "B",
+                "answer_a" : "I read the book.",
+                "answer_b" : "The book was read by me.",
+                "answer_c" : "He is reading the book.",
+                "answer_d" : "She will read the book."
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "What does the word 'ubiquitous' mean?",
+                "level" : "vận dụng",
+                "rightanswer" : "A",
+                "answer_a" : "Present everywhere",
+                "answer_b" : "Difficult to understand",
+                "answer_c" : "Expensive",
+                "answer_d" : "Uncommon"
+            },
+            {
+                "subject_id" : "1",
+                "teacher_id" : 1,
+                "question" : "Which word means 'to speak in a monotonous tone'?",
+                "level" : "Vận dụng",
+                "rightanswer" : "C",
+                "answer_a" : "Sing",
+                "answer_b" : "Shout",
+                "answer_c" : "Drone",
+                "answer_d" : "Whisper"
+            }
+        ]
